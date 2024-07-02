@@ -1,0 +1,5 @@
+part /boot --source bootimg-partition --ondisk mmcblk0 --fstype=vfat --label boot --align 4 --use-uuid --active --fixed-size 32 --sourceparams="loader=u-boot"
+
+part / --source rootfs --ondisk mmcblk0 --align 4 --fstype=ext4 --label root --use-uuid
+
+bootloader --append="console=ttyS0,115200"
