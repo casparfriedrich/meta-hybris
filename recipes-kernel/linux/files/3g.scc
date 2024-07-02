@@ -1,0 +1,3 @@
+kconf hardware 3g.cfg
+
+include features/usb-net/usb-net.scc
