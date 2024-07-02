@@ -1,0 +1,5 @@
+[Match]
+MACAddress=02:00:00:BB:00:00
+
+[Link]
+Name=usb0
