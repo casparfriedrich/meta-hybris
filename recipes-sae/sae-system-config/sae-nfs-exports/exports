@@ -1,0 +1,4 @@
+/rootfs_335_v4   *(rw,no_root_squash,async,no_subtree_check)
+/rootfs_yk_fw5e  *(rw,no_root_squash,async,no_subtree_check)
+/rootfs_yk_m5    *(rw,no_root_squash,async,no_subtree_check)
+/rootfs_yk_ydrix *(rw,no_root_squash,async,no_subtree_check)

@@ -1,0 +1,6 @@
+[Match]
+Type=ether
+Name=eth0
+
+[Network]
+Address=192.168.1.4/24
