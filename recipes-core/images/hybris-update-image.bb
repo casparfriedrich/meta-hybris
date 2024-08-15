@@ -10,6 +10,6 @@ IMAGE_DEPENDS = "hybris-image"
 
 SWUPDATE_IMAGES = "hybris-image"
 
-SWUPDATE_IMAGES_FSTYPES[hybris-image] = ".ext4.gz"
+SWUPDATE_IMAGES_FSTYPES[hybris-image] = ".rootfs.ext4.gz"
 
 inherit swupdate
